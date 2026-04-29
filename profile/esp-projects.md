@@ -2,18 +2,16 @@
 
 Here is a brief description of various Espressif projects to help you in the development process.
 
-## Frameworks
+## Main Frameworks
 
 Espressif Frameworks and SDKs is a collection of tools to help and accelerate the development. Espressif offers a wide variety of frameworks divided into areas like IoT, Audio, Camera, Networking, etc.
 
 | Project                                                     | About                                                                                                                                                         |
 |:-----------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Arduino-ESP32](https://github.com/espressif/arduino-esp32) | Arduino core for ESP32                                                                                                                                        |
-| [ESP-ADF](https://github.com/espressif/esp-adf)             | ESP-ADF (Audio Development Framework) is the official audio development framework for the ESP32, ESP32-S2, and ESP32-S3 SoCs.                                 |
 | [ESP-IDF](https://github.com/espressif/esp-idf)             | ESP-IDF (IoT Development Framework ) is the development framework for Espressif SoCs supported on Windows, Linux, and macOS.                                  |
-| [ESP-Matter](https://github.com/espressif/esp-matter)       | Espressif's SDK for Matter is the official Matter development framework for ESP32 series SoCs. |
 
-## Solutions
+## Frameworks and Solutions
 
 If you are looking for a complete solution based on our frameworks, take a look at the projects we offer. Espressif Solutions are intended to be used as-is or to be customized according to your needs.
 
@@ -21,6 +19,7 @@ If you are looking for a complete solution based on our frameworks, take a look 
 |:----------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ESP-AT](https://github.com/espressif/esp-at)                                | AT Commands Firmware                                                                                                                                                     | 
 | [ESP-HOSTED](https://github.com/espressif/esp-hosted)                        | Communication Processor Firmware                                                                                                                                         |
+| [ESP-ADF](https://github.com/espressif/esp-adf)             | ESP-ADF (Audio Development Framework) is the official audio development framework for the ESP32, ESP32-S2, and ESP32-S3 SoCs.                                 |
 | [ESP-BSP](https://github.com/espressif/esp-bsp)                              | Board support packages for Espressif development boards.                                                                                                                 |
 | [IDF-Components-Manager](https://github.com/espressif/idf-component-manager) | The IDF Component manager is a tool that downloads dependencies for any ESP-IDF CMake project.                                                                           |
 | [ESP-CSI](https://github.com/espressif/esp-csi)                              | The main purpose of this project is to show the use of ESP-WIFI-CSI.                                                                                                     |
@@ -33,6 +32,12 @@ If you are looking for a complete solution based on our frameworks, take a look 
 | [ESPTOOL](https://github.com/espressif/esptool)                              | A Python-based, open-source, platform-independent utility to communicate with the ROM bootloader in Espressif chips.                                                     |
 | [ESP-Mesh-Lite](https://github.com/espressif/esp-mesh-lite) | ESP-MESH-LITE is a Wi-Fi networking application of [IoT-Bridge](https://github.com/espressif/esp-iot-bridge), based on the SoftAP + Station mode, a set of Mesh solutions built on top of the Wi-Fi protocol. |
 | [ESP-WHO](https://github.com/espressif/esp-who)             | ESP-WHO is an image processing development platform based on Espressif chips. It contains development examples that may be applied in practical applications. |
+| [ESP-GMF](https://github.com/espressif/esp-gmf)             | ESP-GMF is a lightweight Espressif framework for IoT multimedia and data-streaming applications, supporting audio, image, and video processing with very low RAM use. |
+| [ESP-Matter](https://github.com/espressif/esp-matter)       | Espressif's SDK for Matter is the official Matter development framework for ESP32 series SoCs. |
+| [ESP-Brookesia](https://github.com/espressif/esp-brookesia) | ESP-Brookesia is an HMI framework for building graphical user interfaces on ESP devices. |
+| [ESP-CLAW](https://github.com/espressif/esp-claw)           | ESP-CLAW is an AI agent framework for IoT devices, enabling "Chat Coding" style development. |
+| [ESP-Agents-Firmware](https://github.com/espressif/esp-agents-firmware)           | ESP Private Agents Platform lets organisations build and host conversational AI agents for Espressif-powered devices. |
+
 
 ## Components and Libraries
 
